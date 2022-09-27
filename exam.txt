@@ -1,4 +1,4 @@
-1) conserver un historique
+1) Conserver un historique revenir en arriere en cas de problemes - Travailler à plusieurs - Suivre les modifications de chaque fichier 
 2) vrai
 3) git init
 4) working directory - repository - index
